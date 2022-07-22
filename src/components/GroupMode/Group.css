@@ -1,0 +1,16 @@
+.group-people-cont {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+   
+  }
+  .group_cont{
+    background: rgb(187, 233, 187) !important;
+  }
+  .group-people {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  svg {
+    cursor: pointer;
+  }

@@ -1,0 +1,12 @@
+.content {
+    margin-left: 300px;
+    margin-top: 40px;
+  }
+ 
+  
+  @media (max-width: 768px) {
+    .content {
+      margin-left: 0;
+    }
+  }
+  

@@ -1,0 +1,10 @@
+.notfound {
+    width: 100%;
+    margin: auto !important; 
+    margin-top: 5px;   
+}
+#notfoundImage1 {
+    width: 60%;
+    height: 700px;
+    margin: 20px 20px 20% 20%;   
+}

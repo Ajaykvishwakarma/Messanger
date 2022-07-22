@@ -1,0 +1,28 @@
+.home_cont {
+    display: flex;
+    height: 104% !important;
+    width: 99.04% ;
+    margin-top: -40px;
+  }
+
+  .chattingpage {
+    background-color: white;
+    width: 100%;
+    box-shadow: 0 2px 4px rgb(15 34 58 / 12%);
+    height: 93vh;
+  }
+  .start_msg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* position: absolute; */
+  }
+  .start_msg div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .start_msg p {
+    color: #7a7f9a;
+    margin: 0px;
+  }
